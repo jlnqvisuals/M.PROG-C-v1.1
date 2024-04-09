@@ -14,9 +14,11 @@
 ## INTRODUCTION
 >Welcome to the MultiProgram C++ version 1.1! This software suite offers a collection of diverse programs designed to cater to various computing needs, ranging from simple tasks to more complex calculations and visual displays.
 
+-------------------------------------
 ## OVERVIEW
 >This multi-program application provides users with a menu-driven interface to access different functionalities. Users can select from a range of options to perform tasks such as displaying messages, generating ASCII art, performing arithmetic calculations, identifying numbers, and more.
 
+-------------------------------------
 ## PROGRAMS INCLUDED
 
 >**1). Display Hello World:** Displays the classic "Hello, World!" message on the screen.
@@ -37,7 +39,7 @@
 
 >**9). Vowel & Consonant Identifier:** Identifies whether a given alphabet provided by the user is a vowel or a consonant.
 
-
+-------------------------------------
 ## SCREENSHOTS
 
 | <img src="https://github.com/jlnqvisuals/M.PROG-C-v1.1/blob/main/Screenshots/01_SplashScreen.png?raw=true" width="650" height="280"> Splash Screen | <img src="https://github.com/jlnqvisuals/M.PROG-C-v1.1/blob/main/Screenshots/02_LoadingScreen.png?raw=true" width="650" height="280"> Loading Screen |
@@ -51,6 +53,31 @@
 
 | <img src="https://github.com/jlnqvisuals/M.PROG-C-v1.1/blob/main/Screenshots/07_MainDB.png?raw=true" width="650" height="280"> Main Program Dashboard | <img src="https://github.com/jlnqvisuals/M.PROG-C-v1.1/blob/main/Screenshots/09_ExitProg.png?raw=true" width="650" height="280"> Exit Program |
 |:-------------------------:|:--------------:|
+
+-------------------------------------
+## OTHER INFORMATION
+
+|**Creator:** | QUILINO, JOHN LLOYD N. _(Bachelor of Science in Computer Engineering)_ |
+|-------------------------:|:--------------|
+
+|**Academic Institution:** | Colegio de Montalban |
+|-------------------------:|:--------------|
+
+|**Year:** |Academic Year 2022-2023|
+|-------------------------:|:--------------|
+
+|**Contact:** |quilino.jlnq@gmail.com|
+|-------------------------:|:--------------|
+
+|**Version:** |MultiProgram C++ - Version 1.1|
+|-------------------------:|:--------------|
+
+|**Copyright:** |© 2023 JLNQ Visuals|
+|-------------------------:|:--------------|
+
+|**Program Completion Date:** |January 22, 2023|
+|-------------------------:|:--------------|
+
 
 
 <sub>jlnqvisuals, Data Management Solutions</sub>
